@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password"><u>Forget password?</u></string>
+    <string name="new_user">New user?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="u_sign_up"><u>SIGN UP</u></string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="hello">Hello,</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="required_field">This field is required</string>
+    <string name="email_sent">We sent you an Email to reset your password.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset_password_dialog_title">Forget Password? It\'s okay!</string>
+    <string name="reset_password_dialog_text">Enter your Email to reset your password.</string>
+    <string name="password_not_match">Password must match</string>
+    <string name="short_password">Password length should be 6 or more</string>
+    <string name="wrong_email">Enter correct Email address</string>
+</resources>
